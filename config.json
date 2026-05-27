@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterserify",
+        "uuid": 5680980,
+        "checksum": "xu2a8h"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
